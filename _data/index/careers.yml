@@ -1,29 +1,43 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
+    detail: Research Assistant at National University of Singapore
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: I work together with A/Prof Anthony Tung in an project with Singapore Tourism Board. In this project, my job is user generated data crawling, data visualization and data analysis. 
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: Feb, 2018 - Apr, 2019
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: Research Assistant
     i18n: company_a_job
   icon: fa-plus-square
 
 - name:
-    detail: Company B
+    detail: Teaching Assistant at National University of Singapore
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: I work as a tutor for CS1010 Programming Methodology I which is an computer science introductory course in C programming. My job scope includes teaching tutorial, marking assignments and exams, and setting exam questions.
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: Jan, 2019 - May, 2019
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: Tutor
+    i18n: company_b_job
+  icon: fa-plus-square
+
+  - name:
+    detail: Teaching Assistant at National University of Singapore
+    i18n: company_b
+  desc:
+    detail: I serve as a tutor for CS1101S Programming Methodology I (A Computer Science intro course for CS major students, teaching in JavaScript). My job is running tutorial, marking student submission, writing lab assignments and consultation with students. 
+    i18n: company_b_desc
+  date:
+    detail: Aug, 2018 - Nov, 2018
+    i18n: company_b_date
+  job:
+    detail: Tutor
     i18n: company_b_job
   icon: fa-plus-square
