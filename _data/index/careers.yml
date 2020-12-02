@@ -1,13 +1,40 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: Doctor of Philosophy (Ph.D.) in Computer Science
+    i18n: company_b
+  desc:
+    detail: Under supervision of Prof. Anthony Tung
+    i18n: company_b_desc
+  date:
+    detail: Jan, 2021 - 
+    i18n: company_b_date
+  job:
+    detail: Postgraduate PhD student
+    i18n: company_b_job
+  icon: fa-plus-square
+
+  - name:
     detail: Research Assistant at National University of Singapore
+    i18n: company_b
+  desc:
+    detail: With Prof. Anthony Tung
+    i18n: company_b_desc
+  date:
+    detail: Jan, 2021 - 
+    i18n: company_b_date
+  job:
+    detail: Research Assistant
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Undergraduate Research Assistant at National University of Singapore
     i18n: company_a
   desc:
-    detail: I work together with A/Prof Anthony Tung in an project with Singapore Tourism Board. In this project, my job is user generated data crawling, data visualization and data analysis. 
-    i18n: company_a_desc
+    detail: Research Assistant under supervision of Prof. Anthony Tung.
   date:
-    detail: Feb, 2018 - Apr, 2019
+    detail: Feb, 2018 - Dec 2020
     i18n: company_a_date
   job:
     detail: Research Assistant
@@ -15,13 +42,13 @@
   icon: fa-plus-square
 
 - name:
-    detail: Teaching Assistant at National University of Singapore
+    detail: Undergraduate Teaching Assistant at National University of Singapore
     i18n: company_b
   desc:
-    detail: I work as a tutor for CS1010 Programming Methodology I which is an computer science introductory course in C programming. My job scope includes teaching tutorial, marking assignments and exams, and setting exam questions.
+    detail: Tutor for CS1010 and CS1101S Programming Methodology I.
     i18n: company_b_desc
   date:
-    detail: Jan, 2019 - May, 2019
+    detail: Aug, 2018 - May, 2019
     i18n: company_b_date
   job:
     detail: Tutor
@@ -29,15 +56,16 @@
   icon: fa-plus-square
 
 - name:
-    detail: Teaching Assistant at National University of Singapore
+    detail: Bachelor of Computing (B.Comp.) in Computer Science
     i18n: company_b
   desc:
-    detail: I serve as a tutor for CS1101S Programming Methodology I (A Computer Science intro course for CS major students, teaching in JavaScript). My job is running tutorial, marking student submission, writing lab assignments and consultation with students. 
+    detail: Focus on Artificial Intelligence, Algorithms & Theory, Networking & Distributed System, Programming Languages and Parallel Computing
     i18n: company_b_desc
   date:
-    detail: Aug, 2018 - Nov, 2018
+    detail: Aug, 2017 - Dec, 2020
     i18n: company_b_date
   job:
-    detail: Tutor
+    detail: Undergraduate
     i18n: company_b_job
   icon: fa-plus-square
+
