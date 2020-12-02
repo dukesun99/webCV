@@ -13,8 +13,7 @@
     detail: Postgraduate PhD student
     i18n: company_b_job
   icon: fa-plus-square
-
-  - name:
+- name:
     detail: Research Assistant at National University of Singapore
     i18n: company_b
   desc:
